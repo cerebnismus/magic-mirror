@@ -9,6 +9,10 @@ body {
 
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 body:before {
   /* position: absolute;  remove for Low Definition */
   top: 0;
