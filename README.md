@@ -1,1 +1,1 @@
-# magicmirror6
+# magic mirror v1.6
